@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" role="img" aria-labelledby="title desc">
+<title id="title">Late Rajiv Gandhi Memorial High School and Junior College crest</title>
+<desc id="desc">A red circular school crest with a golden laurel, a flame and open book, Karanja Ghadge, and the motto Vidya Paramam Balam.</desc>
+<defs>
+ <linearGradient id="red" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#c62749"/><stop offset=".5" stop-color="#990d32"/><stop offset="1" stop-color="#700b28"/></linearGradient>
+ <linearGradient id="gold" x1="0" y1="0" x2=".9" y2="1"><stop stop-color="#fff09a"/><stop offset=".42" stop-color="#f7c634"/><stop offset="1" stop-color="#c98208"/></linearGradient>
+ <linearGradient id="flame" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#f14c34"/><stop offset=".5" stop-color="#ffb13b"/><stop offset="1" stop-color="#f5d775"/></linearGradient>
+ <path id="topArc" d="M 215,440 A 285,285 0 0 1 785,440"/>
+ <path id="bottomArc" d="M 215,440 A 285,285 0 0 0 785,440"/>
+ <g id="leaf"><path d="M0 0C-32-22-35-62-2-84C20-53 18-22 0 0Z" fill="url(#gold)" stroke="#9b680e" stroke-width="3"/><path d="M0-5 0-72" stroke="#a46b09" stroke-width="3" fill="none"/></g>
+</defs>
+<!-- paired laurel branches -->
+<g stroke="#a87508" stroke-width="8" stroke-linecap="round" fill="none"><path d="M232 779C88 673 58 488 138 302"/><path d="M768 779c144-106 174-291 94-477"/></g>
+<g><use href="#leaf" transform="translate(140 627) rotate(-66)"/><use href="#leaf" transform="translate(111 548) rotate(-83)"/><use href="#leaf" transform="translate(111 464) rotate(-101)"/><use href="#leaf" transform="translate(136 382) rotate(-121)"/><use href="#leaf" transform="translate(181 315) rotate(-142)"/><use href="#leaf" transform="translate(217 692) rotate(-49)"/><use href="#leaf" transform="translate(181 611) rotate(-69)"/><use href="#leaf" transform="translate(165 527) rotate(-88)"/><use href="#leaf" transform="translate(174 443) rotate(-108)"/><use href="#leaf" transform="translate(211 365) rotate(-129)"/><use href="#leaf" transform="translate(860 627) scale(-1 1) rotate(-66)"/><use href="#leaf" transform="translate(889 548) scale(-1 1) rotate(-83)"/><use href="#leaf" transform="translate(889 464) scale(-1 1) rotate(-101)"/><use href="#leaf" transform="translate(864 382) scale(-1 1) rotate(-121)"/><use href="#leaf" transform="translate(819 315) scale(-1 1) rotate(-142)"/><use href="#leaf" transform="translate(783 692) scale(-1 1) rotate(-49)"/><use href="#leaf" transform="translate(819 611) scale(-1 1) rotate(-69)"/><use href="#leaf" transform="translate(835 527) scale(-1 1) rotate(-88)"/><use href="#leaf" transform="translate(826 443) scale(-1 1) rotate(-108)"/><use href="#leaf" transform="translate(789 365) scale(-1 1) rotate(-129)"/></g>
+<!-- main medallion -->
+<circle cx="500" cy="453" r="324" fill="#5c0923" opacity=".25"/>
+<circle cx="500" cy="440" r="326" fill="url(#red)" stroke="url(#gold)" stroke-width="13"/>
+<circle cx="500" cy="440" r="304" fill="none" stroke="#fbe6d6" stroke-width="4" opacity=".88"/>
+<circle cx="500" cy="440" r="238" fill="#fffdf7" stroke="#efc7c7" stroke-width="8"/>
+<circle cx="500" cy="440" r="251" fill="none" stroke="#f4d381" stroke-width="4"/>
+<text fill="#fffaf0" font-family="Arial,sans-serif" font-size="28" font-weight="700" letter-spacing="1.2"><textPath href="#topArc" startOffset="50%" text-anchor="middle">LATE RAJIV GANDHI MEMORIAL HIGH SCHOOL &amp; JR. COLLEGE</textPath></text>
+<text fill="#fff2c9" font-family="Arial,sans-serif" font-size="30" font-weight="700" letter-spacing="1.5"><textPath href="#bottomArc" startOffset="50%" text-anchor="middle">KARANJA (GH)</textPath></text>
+<g fill="url(#gold)" stroke="#9b680e" stroke-width="3"><path d="M251 494c-29-21-31-62-3-86 24 26 25 57 3 86Z"/><path d="M749 494c29-21 31-62 3-86-24 26-25 57-3 86Z"/></g>
+<!-- rays of learning -->
+<g stroke="#2c3437" stroke-width="6" stroke-linecap="round"><path d="M500 220v28M461 225l7 27M539 225l-7 27M424 240l13 24M576 240l-13 24M394 263l18 21M606 263l-18 21M371 294l21 17M629 294l-21 17M354 331l25 12M646 331l-25 12M345 372l28 6M655 372l-28 6"/></g>
+<!-- flame -->
+<path d="M500 493c-42-62-8-109 16-150 7 35 42 55 36 101-3 25-21 42-52 49Z" fill="url(#flame)" stroke="#79351f" stroke-width="6"/>
+<path d="M500 493c-18-34-8-57 8-77 3 21 17 30 13 49-2 13-10 22-21 28Z" fill="#fff0ae"/>
+<path d="M500 498v21" stroke="#253034" stroke-width="11" stroke-linecap="round"/>
+<!-- open book -->
+<path d="M500 533c-47-43-102-48-162-29v67c63-13 116-3 162 32 46-35 99-45 162-32v-67c-60-19-115-14-162 29Z" fill="#fffdf8" stroke="#1e292d" stroke-width="9" stroke-linejoin="round"/>
+<path d="M500 537v64M359 522c46-8 86 0 116 17M641 522c-46-8-86 0-116 17" fill="none" stroke="#606b68" stroke-width="5" stroke-linecap="round"/>
+<path d="M500 601c-50 11-96 36-131 71 52-10 96-1 131 25 35-26 79-35 131-25-35-35-81-60-131-71Z" fill="#fffdf7" stroke="#1e292d" stroke-width="8" stroke-linejoin="round"/>
+<path d="M500 603v91m-102-54 102 14m102-14-102 14" fill="none" stroke="#606b68" stroke-width="5"/>
+<!-- motto ribbon -->
+<path d="M184 746 112 793l82 9-12 67 112-56h412l112 56-12-67 82-9-72-47-115 42H299z" fill="url(#red)" stroke="url(#gold)" stroke-width="9" stroke-linejoin="round"/>
+<path d="M209 773H791" stroke="#f7d46f" stroke-width="4" opacity=".85"/>
+<text x="500" y="834" text-anchor="middle" fill="#ffe17d" font-family="Nirmala UI,Mangal,sans-serif" font-size="57" font-weight="700" letter-spacing="1">विद्या परमं बलम्</text>
+</svg>
+
